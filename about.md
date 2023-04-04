@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: base
 title: About Me
 permalink: /about/
 ---
 
-<h3>I've worked in software, AI/ML, product management, sales and marketing, and venture capital
+<h3>
+I've worked in software, AI/ML, product management, sales and marketing, and venture capital
 (whaaattt?! Yeah college really is a melting pot of diverse experiences).
 <br><br>
 <center><figure>
