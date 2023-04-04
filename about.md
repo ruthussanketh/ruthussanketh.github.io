@@ -4,6 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
+<h2> About Me </h2>
 <h3>
 I've worked in software, AI/ML, product management, sales and marketing, and venture capital
 (whaaattt?! Yeah college really is a melting pot of diverse experiences).
@@ -16,7 +17,6 @@ Apart from dabbling in tech (robotics, AI/ML, iOT, AR/VR), I contributed to stud
 You can view my resume <a href = "https://drive.google.com/file/d/1hMEdLyj22dtTmAF4wwx8pblnzqC76GMS/view?usp=sharing" target="_blank">here</a>.
 </h3>
 
-<br>
 <h3>
 When I'm not working, I read fiction novels and enjoy competitive swimming.
 I also love travelling and have a humongous bucket list of adventure sports I'm definitely going to get to.
