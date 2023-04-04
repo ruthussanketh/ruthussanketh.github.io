@@ -34,9 +34,8 @@ minima:
 # order as they should show up.
 #
  header_pages:
-   - _layouts/home.html
-   - _layouts/about.html
-   - _layouts/resources.html
+   - about.md
+   - resources.md
 
 # Set to `true` to show excerpts on the homepage.
 #
