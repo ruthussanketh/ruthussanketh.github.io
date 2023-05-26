@@ -10,7 +10,7 @@ The uplifting and student-centric culture at IIT Kharagpur was one of the best t
 <br><br>
 <center><figure>
     <img src="https://media.tenor.com/8oGXB2bxoLkAAAAC/ticket-pass-across-table.gif" width="50%" height="50%">
-    <figcaption>Passing it along like Master Oogway.</figcaption>
+    <figcaption>Passing it along like Master Shifu.</figcaption>
 </figure></center>
 Please reach out if you have something I can add to the list or if you need any specific advice!
 </h3>
@@ -20,7 +20,7 @@ Please reach out if you have something I can add to the list or if you need any 
 This is a collection of class notes, books, tutorials, exam questions and solutions, and projects taken in (nearly) every course I have taken on campus ordered by semester and course name. Semester 1 and 2 are common courses for all freshmen and there are already a wealth of resources to tackle them, so I won't repeat them here. I majored in Aerospace Engineering, did a minor in Computer Science and Engineering and a micro-specialization in Entrepreneurship and Innovation, so you can expect to find resources for courses from those departments below.
 <br><br>
 <center><figure>
-    <img src="https://media.tenor.com/KMC3ETJ-aEYAAAAS/shark-tale-lenny.gif" width="50%" height="50%">
+    <img src="https://media.tenor.com/KMC3ETJ-aEYAAAAS/shark-tale-lenny.gif" width="40%" height="40%">
     <figcaption>Take all the help you can get!</figcaption>
 </figure></center>
 <ul>
