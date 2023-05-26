@@ -26,5 +26,5 @@ Watching Formula 1 racing is my post-Covid favourite pastime. (for the sport and
     <img src="https://media.tenor.com/LjMTnpM6bggAAAAC/angry-birds-chick-oooh-drama.gif" width="50%" height="50%">
     <figcaption>Just kidding, I stan the sport.</figcaption>
 </figure></center>
-I aim to increase representation and inclusivity as a member of the LGBTQIA+🌈 community and a woman in STEM.
+As a member of the LGBTQIA+🌈 community and a woman in STEM, I aim to increase representation and inclusivity through conscious thought and action.
 </h3>
