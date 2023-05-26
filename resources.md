@@ -35,8 +35,7 @@ This is a collection of class notes, books, tutorials, exam questions and soluti
 
 <h2><i>Internships and Placements</i></h2>
 <h3>
-These are the resources I used for consulting and product management roles during placements. While following this does not guarantee an internship or job offer, it's a good starting point in your job preparation journey!
-It's worth mentioning that there are many other profiles such as software, AI/ML, finance, trading and even core research and foreign training internship and full-time roles for which I have not added any resources.
+These are the resources I used for consulting and product management roles during placements. While following this does not guarantee an internship or job offer, it's a good starting point in your job preparation journey. It's worth mentioning that there are many other profiles such as software, AI/ML, finance, trading and even core research and foreign training internship and full-time roles for which I have not added any resources.
 However, I'd be happy to guide you to the right people for these profiles! <br><br>
 <li><a href = "https://drive.google.com/drive/folders/1oXh5yXATaMAsZmYZzk39zn_-aNcnpeiC?usp=sharing" target="_blank">Consulting</a></li>
 <li><a href = "https://drive.google.com/drive/folders/1eaoodqd0Q_dWFL4vLA5OkRBi4lOYQ_mF?usp=sharing" target="_blank">Product Management</a></li>
