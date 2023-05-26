@@ -30,6 +30,7 @@ This is a collection of class notes, books, tutorials, exam questions and soluti
 <li><a href = "https://drive.google.com/drive/folders/1kMkzpTRFw2kN8cKKAmsLjhJs6TtIcAcD?usp=sharing" target="_blank">Semester 7</a></li>
 <li><a href = "https://drive.google.com/drive/folders/1Gx9wgBrM95ZzkYWLzR430PYs3zJJ6eh2?usp=sharing" target="_blank">Semester 8</a></li>
 <li><a href = "https://drive.google.com/drive/folders/1MQBCd2EwkWlOpvWKJTGtCTeydvQlDZcV?usp=sharing" target="_blank">Semester 9</a></li>
+<li><a href = "https://drive.google.com/drive/folders/1b3ZYrjFW93mVM8ZqmQR1jmT-d_W3F_29?usp=sharing" target="_blank">Semester 10</a></li>
 </ul>
 </h3>
 
