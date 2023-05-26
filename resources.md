@@ -6,9 +6,7 @@ permalink: /resources/
 
 <h2>Resources</h2>
 <h3>
-The uplifting and students-supporting-students culture is one of the best things about IIT Kharagpur.
-My seniors proved invaluable through their resources, insights, and mentorship during my time here.
-Passing it along by attaching a list of curated academic and professional resources.
+The uplifting and student-centric culture at IIT Kharagpur was one of the best things about college. I have gained invaluable mentorship, insights and advice from my seniors during my time here, and this is my first attempt at passing it along.
 <br><br>
 <center><figure>
     <img src="https://media.tenor.com/8oGXB2bxoLkAAAAC/ticket-pass-across-table.gif" width="50%" height="50%">
@@ -19,9 +17,7 @@ Please reach out if you have something I can add to the list or if you need any 
 
 <h2><i>Courses</i></h2>
 <h3>
-A collection of class notes, books, tutorials, exam questions and solutions, and projects taken in (nearly) every course I have taken on campus ordered by semester and course name.
-Semester 1 and 2 are common courses for all freshmen and there are already a wealth of resources from other students' initiatives, so I won't repeat them here.
-I majored in Aerospace Engineering, did a minor in Computer Science and Engineering and a micro-specialization in Entrepreneurship and Innovation, so you can expect to find resources for courses from these departments below.
+This is a collection of class notes, books, tutorials, exam questions and solutions, and projects taken in (nearly) every course I have taken on campus ordered by semester and course name. Semester 1 and 2 are common courses for all freshmen and there are already a wealth of resources to tackle them, so I won't repeat them here. I majored in Aerospace Engineering, did a minor in Computer Science and Engineering and a micro-specialization in Entrepreneurship and Innovation, so you can expect to find resources for courses from those departments below.
 <br><br>
 <center><figure>
     <img src="https://media.tenor.com/KMC3ETJ-aEYAAAAS/shark-tale-lenny.gif" width="50%" height="50%">
@@ -41,7 +37,7 @@ I majored in Aerospace Engineering, did a minor in Computer Science and Engineer
 <h3>
 These are the resources I used for consulting and product management roles during placements. While following this does not guarantee an internship or job offer, it's a good starting point in your job preparation journey!
 It's worth mentioning that there are many other profiles such as software, AI/ML, finance, trading and even core research and foreign training internship and full-time roles for which I have not added any resources.
-However, I can definitely guide you to the right people for these profiles if necessary. <br><br>
+However, I'd be happy to guide you to the right people for these profiles! <br><br>
 <li><a href = "https://drive.google.com/drive/folders/1oXh5yXATaMAsZmYZzk39zn_-aNcnpeiC?usp=sharing" target="_blank">Consulting</a></li>
 <li><a href = "https://drive.google.com/drive/folders/1eaoodqd0Q_dWFL4vLA5OkRBi4lOYQ_mF?usp=sharing" target="_blank">Product Management</a></li>
 </h3>
