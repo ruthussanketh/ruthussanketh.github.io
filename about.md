@@ -7,7 +7,7 @@ permalink: /about/
 <h2> About Me </h2>
 <h3>
 I've worked in software, AI/ML, product management, sales and marketing, and venture capital
-(whaaattt?! Yeah college really is a melting pot of diverse experiences).
+(whaaattt?! Yeah, college really is a melting pot of diverse experiences).
 <br><br>
 <center><figure>
     <img src="https://media.tenor.com/9emiOeoS-nQAAAAC/im-doin-all-this-stuff-randy-marsh.gif" width="40%" height="40%">
