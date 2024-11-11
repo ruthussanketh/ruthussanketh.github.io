@@ -14,7 +14,7 @@ I've worked in software, AI/ML, product management, sales and marketing, and ven
     <figcaption>The more the merrier!</figcaption>
 </figure></center>
 Apart from dabbling in tech (robotics, AI/ML, iOT, AR/VR), I contributed to student welfare as a mentor and placement coordinator during my time at IIT Kharagpur.
-You can view my resume <a href = "https://drive.google.com/file/d/1aTF4jiHn3BloUqipbc1EJv4QcKvU1NQ_/view?usp=sharing" target="_blank">here</a>.
+You can view my resume <a href = "https://drive.google.com/file/d/1dphWjjjsY5AmCmebrARv1A6OD_E4V3W4/view?usp=sharing" target="_blank">here</a>.
 </h3>
 
 <h3>
